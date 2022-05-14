@@ -1,2 +1,3 @@
 - launchUrl seems to don't work when updated from swagger to api/todoitems
 - stuck for the next step by the previous problem, need some time to fix it :o
+- After spending 2 more hours stuck on C# errors I think I'm done for the week-end
